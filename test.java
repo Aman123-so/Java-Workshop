@@ -3,7 +3,7 @@ class test{
         System.out.println(n);
     }
     public  static void main(String args[]){
-        test ts = new test("Ravi");
+        test ts = new test("Aman");
 
     }
 }
