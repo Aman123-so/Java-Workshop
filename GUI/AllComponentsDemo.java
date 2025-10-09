@@ -12,7 +12,7 @@ public class AllComponentsDemo {
         // ---------- MENU BAR ----------
         JMenuBar menuBar = new JMenuBar();
         JMenu fileMenu = new JMenu("File");
-        fileMenu.add(new JMenuItem("Open"));
+        fileMenu.add(new JMenuItem("Open"));                                                                                                                      
         fileMenu.add(new JMenuItem("Save"));
         fileMenu.add(new JMenuItem("Exit"));
         menuBar.add(fileMenu);
